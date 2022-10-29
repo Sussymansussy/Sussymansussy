@@ -1,0 +1,23 @@
+<button type="button" name="myButton">Button</button> <!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Button Generator</title>
+	<style>
+		button {
+			color: #669d39;
+			background-color: #ffd977;
+			font-size: 21px;
+			border: 1px solid #76bb40;
+			padding: 15px 50px;
+			cursor: pointer
+		}
+		button:hover {
+			color: #4d22b2;
+			background-color: #ffab01;
+		}
+	</style>
+</head>
+<body>
+	<button type="button" name="myButton">Button</button>
+</body>
+</html>
